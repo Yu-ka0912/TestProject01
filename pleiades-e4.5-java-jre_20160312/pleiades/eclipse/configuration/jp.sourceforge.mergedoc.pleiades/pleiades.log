@@ -1,0 +1,23 @@
+INFO  20:54:41.994 [main] (Pleiades) Pleiades 構成保管パス: C:\Users\admin\OneDrive\Desktop\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\configuration\jp.sourceforge.mergedoc.pleiades
+INFO  20:54:42.028 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。
+INFO  20:54:42.028 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  20:54:42.029 [pool-1-thread-5] (PropertySet) load  0.000 秒 -      5 エントリー org.eclipse.ui.ide.prefs
+INFO  20:54:42.029 [pool-1-thread-2] (PropertySet) load  0.000 秒 -     67 エントリー translation-exclude-package.properties
+INFO  20:54:42.033 [pool-1-thread-3] (PropertySet) load  0.003 秒 -    359 エントリー translation-regex.properties
+INFO  20:54:42.037 [pool-1-thread-3] (PropertySet) load  0.000 秒 -     16 エントリー translation-regex-through.properties
+INFO  20:54:42.062 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  20:54:42.071 [pool-2-thread-1] (EclipseFiles) 前回のプラグイン更新最終時刻: 2024-10-19 17:56:13
+INFO  20:54:42.072 [pool-2-thread-1] (EclipseFiles) 今回のプラグイン更新最終時刻: 2024-10-19 17:56:13
+INFO  20:54:42.102 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  20:54:42.102 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  20:54:42.109 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  20:54:42.123 [pool-1-thread-3] (ExcludeClassNameCache) load   14548 エントリー exclude-class.list
+INFO  20:54:42.182 [pool-1-thread-3] (TransformedClassCache) load      677 エントリー transformed-class.cache
+INFO  20:54:42.211 [pool-1-thread-3] (ValueHashPropertySet) load  0.030 秒 -  24214 エントリー translation-cache.properties.zip
+INFO  20:54:42.214 [pool-1-thread-3] (CachePropertySet) load  0.002 秒 -   2568 エントリー mnemonic-cache.properties.zip
+INFO  20:54:46.965 [main] (Analyses) Eclipse 始動完了 - 始動時間: 4.783 秒。-clean:false
+INFO  20:55:01.415 [pleiades-shutdown] (PropertySet) load  0.028 秒 -  24214 エントリー translation-cache.properties.zip
+INFO  20:55:01.489 [pleiades-shutdown] (ValueHashPropertySet) store 0.073 秒 -  24215 エントリー translation-cache.properties.zip
+INFO  20:55:01.489 [pleiades-shutdown] (CachePropertySet) 翻訳キャッシュ・プロパティーを更新しました。
+INFO  20:55:01.493 [pleiades-shutdown] (PropertySet) load  0.003 秒 -   2568 エントリー mnemonic-cache.properties.zip
+INFO  20:55:01.493 [pleiades-shutdown] (CachePropertySet) ニーモニック変換キャッシュ・プロパティーの更新はありません。
