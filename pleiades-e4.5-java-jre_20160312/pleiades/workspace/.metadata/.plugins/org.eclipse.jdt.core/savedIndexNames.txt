@@ -1,20 +1,5 @@
-INDEX VERSION 1.127+C:\Users\admin\OneDrive\Desktop\pleiades-e4.5-java-jre_20160312\pleiades\workspace\.metadata\.plugins\org.eclipse.jdt.core
-2077774398.index
-2836859749.index
-4019561639.index
-2610341.index
-3596954085.index
-3381333307.index
-2163801692.index
-1399490777.index
-582991529.index
-523827480.index
-1802777570.index
-3701691612.index
-2678693307.index
+INDEX VERSION 1.127+C:\Users\admin\OneDrive\Desktop\workspace\workspace-aoyama\TestProject01\pleiades-e4.5-java-jre_20160312\pleiades\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3077667388.index
 3497190822.index
-2696045704.index
-2783153948.index
-385588914.index
-2063009073.index
-377322306.index
+2730876539.index
+2809104233.index
